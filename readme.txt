@@ -1,5 +1,1 @@
-This file is a new file which contains information about my project
-This is new code following revert
-
-This is my row (matan)
-
+This is some dummy file which we can think of as one that contains code.
